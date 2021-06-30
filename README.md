@@ -25,6 +25,8 @@ Feel free to read up the slides to get an early grasp of how FIT1008 looks like
 4. Be patient and wait for it to fully clone the repo
 5. Wallah! Your totally personally customised lecture slides are in ur local directory
 
+<br>
+
 ## To Update Slides to Your Repo:
 1. `git add *`
 2. `git commit -m "<your commit message>"`
